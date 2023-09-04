@@ -1,0 +1,17 @@
+.vscode
+node_modules
+/node_modules/
+/assessment/node_modules/
+/assessment/node_modules
+/assessment/cypress/support/
+/assessment/cypress/videos/
+/assessment/screenshots/
+/assessment/support/
+/assessment/test-results.xml
+nohup.out
+.idea/
+__pycache__/
+venv/
+
+# Local Netlify folder
+.netlify

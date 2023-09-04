@@ -1,0 +1,8 @@
+index.html merge=ours
+resources/js/index.js merge=ours
+package.json merge=copy-merge
+package-lock.json merge=copy-merge
+pnpm-lock.yaml merge=copy-merge
+assessment/package.json merge=copy-merge
+assessment/package-lock.json merge=copy-merge
+assessment/pnpm-lock.yaml merge=copy-merge
