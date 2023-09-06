@@ -8,7 +8,7 @@
 
 👉 Live Demo: <a href='https://krishna-xboard.netlify.app/'>Live Demo</a>
 
-List of frameworks/libraries/languages that were used to built this project .
+List of Languages that were used to built this project .
 
 - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 - [![Css][Css.com]][Css-url]
