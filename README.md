@@ -2,21 +2,18 @@
 
 <h2>About the project</h2>
 
-  <p>Welcome to my self-portfolio website! This unique and visually stunning platform showcases my skills, experiences, and projects, highlighting my journey as a developer. Built with the powerful combination of React.js, SCSS, HTML, and JavaScript, this website offers an interactive and engaging experience for visitors.</p>
+  <p>XBoard is a News Feed website that will feature the latest news for select topics, from Flipboard.</p>
 
 ![](https://github.com/Krishna11118/XBoard/blob/main/examples/XBoardGif.gif)
 
-
 👉 Live Demo: <a href='https://krishna-xboard.netlify.app/'>Live Demo</a>
-
 
 List of frameworks/libraries/languages that were used to built this project .
 
-
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Css][Css.com]][Css-url]
-* [![Html][Html.com]][Html-url]
-* [![Js][Js.com]][Js-url]
+- [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+- [![Css][Css.com]][Css-url]
+- [![Html][Html.com]][Html-url]
+- [![Js][Js.com]][Js-url]
 
 <h2>Screenshot</h2>
 <br>
@@ -25,13 +22,9 @@ List of frameworks/libraries/languages that were used to built this project .
 <img src='./examples/XBoard1.png'/>
 <img src='./examples/XBoard2.png'/>
 
-
-
 <h2>Contact</h2>
 
-Krishna -  [@Whatsapp](https://wa.me/+917318378893) - krishnassss365@gmail.com - [@LinkedIn](https://www.linkedin.com/in/krishna365/)
-
-
+Krishna - [@Whatsapp](https://wa.me/+917318378893) - krishnassss365@gmail.com - [@LinkedIn](https://www.linkedin.com/in/krishna365/)
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
@@ -67,7 +60,8 @@ Krishna -  [@Whatsapp](https://wa.me/+917318378893) - krishnassss365@gmail.com -
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [Js.com]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-[Js-url]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/
+[Js-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/
 [Scss]: https://img.shields.io/badge/sass-20232A?style=for-the-badge&logo=sass&logoColor=#CC6699
 [Scss-url]: https://sass-lang.com/
+
 </div>
