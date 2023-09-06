@@ -15,7 +15,7 @@ List of frameworks/libraries/languages that were used to built this project .
 - [![Html][Html.com]][Html-url]
 - [![Js][Js.com]][Js-url]
 
-<h2>Screenshot</h2>
+<h2>Screenshots</h2>
 <br>
 
 <div align='center'>
