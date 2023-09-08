@@ -1,5 +1,6 @@
 <div align='center'><img height="100px" width="100px" src='./examples/XBoard_icon.png'/></div>
 
+
 <h2>About the project</h2>
 
   <p>XBoard is a News Feed website that will feature the latest news for select topics, from Flipboard.</p>
